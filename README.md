@@ -1,23 +1,32 @@
 # 👋 Hi, I'm Sebastian Diaz
 
-I'm a CS student at **UC San Diego** 🇺🇸, currently wrapping up my third year. I’m passionate about building software that’s both useful and delightful—from backend APIs to mobile apps.
+I'm a Computer Science student at **UC San Diego** and a Regents Scholar. I'm passionate about full-stack development, mobile software, and systems programming — always eager to learn and build.
 
-## 🔧 Technologies I Use
-**Languages:** Java, Python, C/C++, TypeScript  
-**Tools:** Git, VS Code, Android Studio, Vim  
-**Frameworks:** React Native, React, JUnit, pandas
+## 🚀 About Me
+- 🎓 CS major @ UCSD (Class of 2026)
+- 🌍 Spanish Speaker
+- 🧠 Interests: Operating Systems, Networking, Mobile Apps, Security
+- 📈 Currently looking for **2025 summer internships**
 
-## 📱 Recent Projects
-- 🔒 **Lockpod** – Cross-platform app to reserve bike lockers (React Native + Firebase)  
-- 📅 **Schedule Builder** – Visual course planner using UC3M class data (React + Python)  
-- 🎮 **Typing Game** – Speed typing game with color-coded feedback (React + Vite)  
-- 🧠 **ML Disease Predictor** – Trained models on symptom data from Kaggle (Python)
+## 🛠️ Languages & Tools
+**Languages:** Java, C/C++, Python, JavaScript, TypeScript, HTML/CSS  
+**Frameworks/Libraries:** React, React Native, JUnit, OpenCL, pandas, NumPy  
+**Tools:** Git, VS Code, Vim, Android Studio, IntelliJ, Gradle, Vite
 
-## 🎯 Current Goals
-- Deepen my knowledge of operating systems and explore other fields
-- Contribute to open-source projects  
-- Land a software engineering internship for 2025 🚀
+## 🧩 Featured Projects
+### 🔒 Lockpod — React Native + PostgreSQL
+Cross-platform app to reserve secure bike lockers. Built user account settings, and modular frontend components.
 
-## 📬 Get in Touch
-- Email: dv.sebastian@outlook.com  
-- [LinkedIn](https://linkedin.com/in/dvsebastian)
+### 📅 Schedule Builder — React + Python
+Visual tool for UC3M students to search and plan their class schedule. Parsed university data and built intuitive weekly calendar view.
+
+### 🎮 Typing Game — React + Vite
+Typing game with real-time feedback. Randomly fetches quotes and tracks typing accuracy and speed.
+
+### 🧠 ML Disease Predictor — Python
+Trained models on Kaggle symptom data to predict medical conditions. Used scikit-learn, pandas, and matplotlib for analysis and visualization.
+
+## 📫 Get in Touch
+- ✉️ Email: [dv.sebastian@outlook.com](mailto:dv.sebastian@outlook.com)
+- 💼 LinkedIn: [linkedin.com/in/dvsebastian](https://linkedin.com/in/dvsebastian)
+---
