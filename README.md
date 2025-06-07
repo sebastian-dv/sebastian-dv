@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Sebastian Diaz
+# Hi, I'm Sebastian Diaz
 
 I'm a Computer Science student at **UC San Diego** and a Regents Scholar. I'm passionate about full-stack development, mobile software, and systems programming — always eager to learn and build.
 
-## 🚀 About Me
+## About Me
 - 🎓 CS major @ UCSD (Class of 2026)
 - 🌍 Spanish Speaker
 - 🧠 Interests: Operating Systems, Networking, Mobile Apps, Security
